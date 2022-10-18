@@ -23,7 +23,7 @@ npm install
 ```
 
 
-3. Try out the demo [`src/demo.ts`](https://github.com/hoppscotch/hoppscotch/blob/main/packages/hoppscotch-js-sandbox/src/demo.ts) using:
+3. Try out the demo [`src/demo.ts`](https://github.com/zhangtao25/arex-js-sandbox/blob/main/src/demo.ts) using:
 
 ```
 npm run demo
