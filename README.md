@@ -1,3 +1,5 @@
+# arex-js-sandbox
+
 This package deals with providing a JavaScript sandbox for executing various security sensitive external scripts.
 
 ## How does this work?
